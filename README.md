@@ -6,3 +6,5 @@ To create a title/subtitle you will need to add hashtags at the start of the lin
 Example:
 ``## Test``
 
+##### Emojis
+To use emojis in your README.md you will have to press `Windows + .` if you are on windows and `Fn` on MacOS.  
