@@ -15,8 +15,8 @@ Example:
 ``👋``
 
 #### Embeds
-To create an Embed, the simplest way to do so is `![](*Image URL goes here*)`, once you paste your image URL in the regular brackets the image will appear once you `Commit changes`.
+To create an Embed, the simplest way to do so is `![](*Image URL goes here*)`, once you paste your image URL in the regular brackets the image will appear once you `Commit changes`. You can state what the embed is in the square brackets (`[]`).
 
 Example:
 
-``![](https://camo.githubusercontent.com/7d7b100e379663ee40a20989e6c61737e6396c1dafc3a7c6d2ada8d4447eb0e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3644413535463f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465)``
+``![Node JS Icon](https://camo.githubusercontent.com/7d7b100e379663ee40a20989e6c61737e6396c1dafc3a7c6d2ada8d4447eb0e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3644413535463f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465)``
