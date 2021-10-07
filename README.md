@@ -7,7 +7,7 @@ Example:
 ``## Test``
 
 ##### Emojis
-To use emojis in your README.md you will have to press `Windows + .` if you are on windows whereas, if you are on MacOS you will have to press `Fn`.
+To use emojis in your README.md you will have to press `Windows + .` if you are on windows, whereas if you are on MacOS you will have to press `Fn`.
 
 Example:
 ``👋``
