@@ -10,7 +10,7 @@ Example:
 To use emojis in your README.md you will have to press `Windows + .` if you are on windows, whereas if you are on MacOS you will have to press `Fn`.
 
 Example:
-``👋``
+👋
 
 #### Embeds
 To create an Embed, the simplest way to do so is `![](*Image URL goes here*)`, once you paste your image URL in the regular brackets the image will appear once you `Commit changes`.
